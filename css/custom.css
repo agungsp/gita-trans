@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Font Digital";
+    src: url('URW-Gothic-L.ttf');
+}
+
+.font-master {
+    font-family: "Font Digital";
+}
+
+h3 {
+    text-align: center;
+}
